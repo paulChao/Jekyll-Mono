@@ -10,15 +10,19 @@ Love traveling, solving problems, and enjoy food from all over the word.
 
 ## Education
 
-* MS, Electrical and Computer Engineering from University of Florida. -2012 
+* Master of Science, Electrical and Computer Engineering.  
+   University of Florida. Jan 2010 - May 2012
 
-* MS, Mechanical and Aerospace Engineering from University of Florida. -2012 
+* Master of Science, Mechanical and Aerospace Engineering.  
+   University of Florida. Jan 2010 - May 2012 
 
-* BS, Bio-Industrial Mechatronics Engineering from National Taiwan University. -2008
+* Bachelor of Science, Bio-Industrial Mechatronics Engineering.  
+   National Taiwan University. Sep 2004 - Jun 2008
 
 ## Roles
 
 Embedded Electrical Engineer, Global Technology Systems, Inc. 2012 - present
+
 
 <!--
 
@@ -31,7 +35,9 @@ Embedded Electrical Engineer, Global Technology Systems, Inc. 2012 - present
 * **Skill 5** - `Skill`
 * **Skill 6** - `Skill` / `Skill` 
     
-    
+   
+
+ 
 ## Achievements
 
 
@@ -55,5 +61,4 @@ Embedded Electrical Engineer, Global Technology Systems, Inc. 2012 - present
 
 
 ## Contact me
-
 [paul@pchao.cc](mailto:paul@pchao.cc)
