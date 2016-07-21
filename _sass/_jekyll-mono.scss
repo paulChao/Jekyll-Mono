@@ -11,6 +11,8 @@
     a {
       color: $white;
       text-decoration: none;
+      font-weight: bold;
+      font-size: 30px;
     	cursor: pointer;
       &:hover{
         color: darken($navbar-hover-color,20);
