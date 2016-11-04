@@ -19,7 +19,7 @@ Love traveling, solving problems, and enjoy food from all over the word.
 * Bachelor of Science, Bio-Industrial Mechatronics Engineering.  
    National Taiwan University. Sep 2004 - Jun 2008
 
-## Roles
+## Careers
 
 Embedded Electrical Engineer, Global Technology Systems, Inc. 2012 - present
 
