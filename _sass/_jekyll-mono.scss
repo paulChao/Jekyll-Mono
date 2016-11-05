@@ -92,18 +92,18 @@ button.button-primary:focus {
 */
 
 .intro-header {
-  border-top: 5px solid $mono-color;
+  border-top: 5px solid white;
   background-color:$mono-color;
 }
 
 .intro-header .post-heading {
   padding: 100px 0 50px;
-  color: $white;
+  color: $mono-color;
 
 }
 
 .intro-header .post-heading h1 {
-    color:$white;
+    color:$mono-color;
     font-size: 36px;
     line-height: 1.5;
     font-family:$raleway ;
