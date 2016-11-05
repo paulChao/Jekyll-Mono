@@ -19,17 +19,17 @@ $blue: #4183C4;
 // Some cool main theme colors(violet:#8476ad;blue:#5cacee;red:#ff7373,#ff6f69;green:#6acf64,#2ddbb3;orange:#ffa268)
 
 $mono-color:#6F4924;                // main theme color(header, links, footer icons, buttons, post-title)
-$hl-color: $darkGray;              // header link color (author name and posted on date) for blog post meta 
-$navbar-hover-color:$gray;        // navbar hover color (site name and navbar links hover color)
-$link-color: $darkerGray;        // normal hyperlink color other than the ones above.
+$hl-color: lighten($mono-color,50);              // header link color (author name and posted on date) for blog post meta 
+$navbar-hover-color:lighten($mono-color,50);        // navbar hover color (site name and navbar links hover color)
+$link-color: lighten($mono-color,30);        // normal hyperlink color other than the ones above.
 
 
 // Heading colors
 // You can play around with these too!
-$h1-color: $mono-color;
-$h2-color: $mono-color; 
-$h3-color: $darkerGray; 
-$h4-color: $gray; 
+$h1-color: darken($darkerGray,50);//lighten($mono-color,50);
+$h2-color: darken($darkerGray,50);//lighten($mono-color,50);
+$h3-color: lighten($gray,50);
+$h4-color: lighten($gray,50);
 
 // Your avatar
 
