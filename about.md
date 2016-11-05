@@ -21,12 +21,17 @@ Love traveling, solving problems, and enjoy food from all over the word.
 
 ## Career
 
-* Embedded Electrical Engineer, Global Technology Systems, Inc. 2012 - present
-..* Lead developer and engineering project manager for the Test & Replace project of GTS. Provide a total solution for self-testing Bluetooth battery tester to paired with mobile devices of Android and iOS products.
-..* 7+ years of research and industrial experiences in embedded robotic design and its applications.
-..* 1 US patent pending in relative fields.
-..* Extensive experience in design/development/manufacturing of secondary battery relative products end-to-end. (Lithium battery protection circuit, tri-chemistry charger, power bank, battery simulator, and battery reader)
-..* Frequent traveler around the world including U.S., Europe, and Asia for customer technical support and manufacturing supervision and assistance.
+# Embedded Electrical Engineer, Global Technology Systems, Inc. 2012 - present
+
+* Lead developer and engineering project manager for the Test & Replace project of GTS. Provide a total solution for self-testing Bluetooth battery tester to paired with mobile devices of Android and iOS products.
+
+* 7+ years of research and industrial experiences in embedded robotic design and its applications.
+
+* 1 US patent pending in relative fields.
+
+* Extensive experience in design/development/manufacturing of secondary battery relative products end-to-end. (Lithium battery protection circuit, tri-chemistry charger, power bank, battery simulator, and battery reader)
+
+* Frequent traveler around the world including U.S., Europe, and Asia for customer technical support and manufacturing supervision and assistance.
 
 <!--
 
