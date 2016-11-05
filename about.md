@@ -21,7 +21,7 @@ Love traveling, solving problems, and enjoy food from all over the word.
 
 ## Career
 
-### Embedded Electrical Engineer, Global Technology Systems, Inc. 2012 - present
+Embedded Electrical Engineer, Global Technology Systems, Inc. 2012 - present
 
 * Lead developer and engineering project manager for the Test & Replace project of GTS. Provide a total solution for self-testing Bluetooth battery tester to paired with mobile devices of Android and iOS products.
 
