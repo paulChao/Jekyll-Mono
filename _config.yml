@@ -39,7 +39,8 @@ google_analytics:
 
 # Your website URL (e.g. http://akshayagarwal007.github.io)
 # Used for Sitemap.xml and your RSS feed
-url: http://pchao.cc
+url: https://pchao.cc
+enforce_ssl: pchao.cc   # without any protocol
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
